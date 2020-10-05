@@ -1,3 +1,4 @@
 # Minesweeper
 
-Making changes to the README file
+Minesweeper game made in Java programming language. 
+
